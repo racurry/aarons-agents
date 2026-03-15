@@ -1,6 +1,8 @@
 # Personal Agent Skills
 
-Plugin marketplace for Aaron's personal Claude Code workflows.
+This is my stuff!  Skills and agents that are just for me, that have some kind of personal info that I wouldn't want to share publicly.  
+
+If a component reflects my personal preferences but doesn't contain anything that is actually private, it should go in racurry/neat-little-package.
 
 ## Overview
 
@@ -10,6 +12,6 @@ Plugin marketplace for Aaron's personal Claude Code workflows.
 ## Install
 
 ```sh
-/plugin marketplace add aaron/personal-agent-skills
+/plugin marketplace add racurry/personal-agent-skills
 /plugin install me@personal-agent-skills
 ```
