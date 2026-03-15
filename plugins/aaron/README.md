@@ -1,4 +1,4 @@
-# me
+# aaron
 
 Personal skills and agents for Aaron's day-to-day workflows.
 
@@ -9,5 +9,5 @@ Personal skills and agents for Aaron's day-to-day workflows.
 ## Commands
 
 ```sh
-/me:things          # manage Things 3 tasks, triage inbox, route and prioritize
+/aaron:things       # manage Things 3 tasks, triage inbox, route and prioritize
 ```

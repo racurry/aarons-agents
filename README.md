@@ -1,6 +1,6 @@
-# Personal Agent Skills
+# Aaron's Agents
 
-This is my stuff!  Skills and agents that are just for me, that have some kind of personal info that I wouldn't want to share publicly.  
+This is my stuff! Skills and agents that are just for me, that have some kind of personal info that I wouldn't want to share publicly.
 
 If a component reflects my personal preferences but doesn't contain anything that is actually private, it should go in racurry/neat-little-package.
 
@@ -12,6 +12,6 @@ If a component reflects my personal preferences but doesn't contain anything tha
 ## Install
 
 ```sh
-/plugin marketplace add racurry/personal-agent-skills
-/plugin install me@personal-agent-skills
+/plugin marketplace add racurry/aarons-agents
+/plugin install aaron@aarons-agents
 ```
