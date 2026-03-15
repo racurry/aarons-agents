@@ -1,0 +1,13 @@
+{
+  "name": "personal-agent-skills",
+  "owner": {
+    "name": "racurry"
+  },
+  "plugins": [
+    {
+      "name": "me",
+      "source": "./plugins/me",
+      "description": "Personal skills and agents"
+    }
+  ]
+}
